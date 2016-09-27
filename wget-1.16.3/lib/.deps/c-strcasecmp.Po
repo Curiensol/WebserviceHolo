@@ -1,0 +1,40 @@
+c-strcasecmp.o: c-strcasecmp.c ../src/config.h c-strcase.h \
+  /Library/Developer/CommandLineTools/usr/bin/../lib/clang/7.0.2/include/stddef.h \
+  /Library/Developer/CommandLineTools/usr/bin/../lib/clang/7.0.2/include/__stddef_max_align_t.h \
+  /Library/Developer/CommandLineTools/usr/bin/../lib/clang/7.0.2/include/limits.h \
+  /usr/include/limits.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/limits.h \
+  /usr/include/i386/limits.h /usr/include/i386/_limits.h \
+  /usr/include/sys/syslimits.h c-ctype.h \
+  /Library/Developer/CommandLineTools/usr/bin/../lib/clang/7.0.2/include/stdbool.h
+
+../src/config.h:
+
+c-strcase.h:
+
+/Library/Developer/CommandLineTools/usr/bin/../lib/clang/7.0.2/include/stddef.h:
+
+/Library/Developer/CommandLineTools/usr/bin/../lib/clang/7.0.2/include/__stddef_max_align_t.h:
+
+/Library/Developer/CommandLineTools/usr/bin/../lib/clang/7.0.2/include/limits.h:
+
+/usr/include/limits.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/_symbol_aliasing.h:
+
+/usr/include/sys/_posix_availability.h:
+
+/usr/include/machine/limits.h:
+
+/usr/include/i386/limits.h:
+
+/usr/include/i386/_limits.h:
+
+/usr/include/sys/syslimits.h:
+
+c-ctype.h:
+
+/Library/Developer/CommandLineTools/usr/bin/../lib/clang/7.0.2/include/stdbool.h:
